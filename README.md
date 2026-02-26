@@ -1,5 +1,10 @@
 Fizemos o trabalho baseado na fractal de mandelbrot, onde utilizamos a linguagem C no arquivo mandelbrot.c para gerar a fractal e a linguagem Python no arquivo main.py para fazer a interface!
 
+# Integrantes
+
+Octavio Nickel Ladeira
+Julia Brenda Souza da Rosa
+
 # Compilação
 
 gcc -shared -o libmandelbrot.dll mandelbrot.c
